@@ -62,7 +62,7 @@ target_hoax2
 
 Menjalankan Tools
 
-python3 instajustice.py
+python3 tools.py
 
 
 ---
